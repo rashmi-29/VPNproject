@@ -1,12 +1,13 @@
-.homeContainer{
+.homeContainer {
     /* background-color:#e56161; */
 }
 
-.logo{
-    margin-left:350px;
+.logo {
+    margin-left: 350px;
     margin-top: 60px;
 }
-.navitem1{
+
+.navitem1 {
     display: flex;
     margin-left: 660px;
     margin-top: -30px;
@@ -15,22 +16,22 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-    color:#4F5665;
+    color: #4F5665;
 }
 
-.navitem2{
+.navitem2 {
     display: flex;
-    margin-left:800px;
+    margin-left: 800px;
     margin-top: -20px;
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-    color:#4F5665;
+    color: #4F5665;
 }
 
-.navitem3{
+.navitem3 {
     display: flex;
     margin-left: 940px;
     margin-top: -20px;
@@ -39,11 +40,11 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-    color:#4F5665;
+    color: #4F5665;
 }
 
-.navitem4{
-    display:flex;
+.navitem4 {
+    display: flex;
     margin-left: 1070px;
     margin-top: -20px;
     font-family: 'Rubik';
@@ -51,12 +52,12 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
-    color:#4F5665;
+    color: #4F5665;
 }
 
-.navitem5{
+.navitem5 {
     display: flex;
-    margin-left:1300px;
+    margin-left: 1300px;
     margin-top: -18px;
     font-family: 'Rubik';
     font-style: normal;
@@ -66,17 +67,18 @@
     color: #0B132A;
 }
 
-.content1{
-    margin-left:350px;
+.content1 {
+    margin-left: 350px;
     margin-top: 100px;
     font-family: 'Rubik';
     font-style: normal;
-    font-weight:bold;
+    font-weight: bold;
     font-size: 45px;
     line-height: 55px;
     color: #0B132A;
 }
-.content2{
+
+.content2 {
     margin-left: 350px;
     margin-top: 20px;
     font-family: 'Rubik';
@@ -87,29 +89,29 @@
     color: #4F5665;
 }
 
-.btn1{
-    margin-left:350px;
+.btn1 {
+    margin-left: 350px;
     margin-top: 20px;
-    padding:10px 22px;
+    padding: 10px 22px;
     background-color: red;
     color: white;
     border: none;
 }
 
-.illustration1{
+.illustration1 {
     display: flex;
-    margin-left:1000px;
-    margin-top:-270px;
+    margin-left: 1000px;
+    margin-top: -270px;
     width: 31%;
 }
 
 
-.pattern1{
+.pattern1 {
     margin-left: 365px;
     margin-top: 100px;
 }
 
-.p1content1{
+.p1content1 {
     margin-left: 440px;
     margin-top: -53px;
     font-family: 'Rubik';
@@ -117,10 +119,10 @@
     font-weight: 700;
     font-size: 25px;
     line-height: 30px;
-    color:black ;
+    color: black;
 }
 
-.p1content2{
+.p1content2 {
     margin-left: 440px;
     font-family: 'Rubik';
     font-style: normal;
@@ -130,24 +132,24 @@
     color: #121214;
 }
 
-.pattern2{
-    display:flex;
-    margin-left:750px;
+.pattern2 {
+    display: flex;
+    margin-left: 750px;
     margin-top: -68px;
 }
 
-.p2content1{
-    margin-left:820px;
+.p2content1 {
+    margin-left: 820px;
     margin-top: -50px;
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 700;
     font-size: 25px;
     line-height: 30px;
-    color:black ;
+    color: black;
 }
 
-.p2content2{
+.p2content2 {
     margin-left: 820px;
     font-family: 'Rubik';
     font-style: normal;
@@ -157,14 +159,14 @@
     color: #4F5665;
 }
 
-.pattern3{
+.pattern3 {
     display: flex;
     margin-left: 1150px;
     margin-top: -78px;
 }
 
-.p3content1{
-    margin-left:1220px;
+.p3content1 {
+    margin-left: 1220px;
     margin-top: -40px;
     font-family: 'Rubik';
     font-style: normal;
@@ -174,7 +176,7 @@
     color: black;
 }
 
-.p3content2{
+.p3content2 {
     margin-left: 1220px;
     font-family: 'Rubik';
     font-style: normal;
@@ -184,26 +186,26 @@
     color: #4F5665;
 }
 
-.leftFeature{
-    width:31%;
-    margin-left:200px;
+.leftFeature {
+    width: 31%;
+    margin-left: 200px;
     padding-top: 110px;
     display: flex;
 }
 
-.content3{
-    margin-left:1000px;
+.content3 {
+    margin-left: 1000px;
     margin-top: -300px;
     font-family: 'Rubik';
     font-style: normal;
-    font-weight:bold;
+    font-weight: bold;
     font-size: 35px;
     line-height: 40px;
     color: #0B132A;
 }
 
-.content4{
-    margin-left:1000px;
+.content4 {
+    margin-left: 1000px;
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 400;
@@ -212,7 +214,7 @@
     color: #4F5665;
 }
 
-.list{
+.list {
     margin-left: 960px;
     list-style: none;
     padding-right: 20px;
@@ -224,11 +226,11 @@
     color: #4F5665;
 }
 
-.img{
+.img {
     padding-right: 10px;
 }
 
-.heading1{
+.heading1 {
     text-align: center;
     font-family: 'Rubik';
     font-style: normal;
@@ -238,7 +240,7 @@
     margin-top: 250px;
 }
 
-.subheading1{
+.subheading1 {
     text-align: center;
     font-family: 'Rubik';
     font-style: normal;
@@ -248,29 +250,29 @@
     color: #4F5665;
 }
 
-.rectangle1{
+.rectangle1 {
     margin-left: 240px;
     width: 18%;
 }
 
-.profitPlans{
+.profitPlans {
     margin-left: -230px;
     margin-bottom: 470px;
 }
 
-.plan1{
-    margin-left:350px;
-    position:absolute;
+.plan1 {
+    margin-left: 350px;
+    position: absolute;
     margin-top: -450px;
     font-family: 'Rubik';
     font-style: normal;
-    font-weight:bold;
+    font-weight: bold;
     font-size: 18px;
     line-height: 30px;
     color: #0B132A;
 }
 
-.freePlan{
+.freePlan {
     margin-left: 275px;
     margin-top: -380px;
     list-style: none;
@@ -282,26 +284,26 @@
     color: #4F5665;
 }
 
-.checklistSymbol{
+.checklistSymbol {
     padding-right: 8px;
 }
 
-.offer1{
+.offer1 {
     margin-left: 360px;
     margin-top: 70px;
     font-family: 'Rubik';
     font-style: normal;
-    font-weight:bold;
+    font-weight: bold;
     font-size: 25px;
     line-height: 30px;
 }
 
-.btn2{
+.btn2 {
     position: absolute;
     margin-left: 320px;
     margin-top: 30px;
     background: #FFFFFF;
-    border: 3px solid #F53838 ;
+    border: 3px solid #F53838;
     border-radius: 30px;
     font-family: 'Rubik';
     font-style: normal;
@@ -313,34 +315,34 @@
     box-sizing: border-box;
 }
 
-.rectangle2{
+.rectangle2 {
     position: absolute;
-    margin-left:700px;
+    margin-left: 700px;
     width: 18%;
     margin-top: -600px;
 }
 
-.standardPlans{
+.standardPlans {
     position: absolute;
     margin-left: 780px;
     margin-top: -550px;
 }
 
-.plan2{
+.plan2 {
     position: absolute;
     margin-left: 800px;
     margin-top: -360px;
     font-family: 'Rubik';
     font-style: normal;
-    font-weight:bold;
+    font-weight: bold;
     font-size: 18px;
     line-height: 30px;
     color: #0B132A;
 }
 
-.standardPlan{
+.standardPlan {
     position: absolute;
-    list-style:none;
+    list-style: none;
     margin-left: 740px;
     margin-top: -290px;
     font-family: 'Rubik';
@@ -351,24 +353,24 @@
     color: #4F5665;
 }
 
-.offer2{
+.offer2 {
     position: absolute;
     margin-left: 820px;
     margin-top: -30px;
     font-family: 'Rubik';
-    font-style:bold;
+    font-style: bold;
     font-weight: 900;
     font-size: 25px;
     line-height: 30px;
-    color:#0B132A ;
+    color: #0B132A;
 }
 
-.btn3{
+.btn3 {
     position: absolute;
     margin-left: 790px;
     margin-top: 25px;
     background: #FFFFFF;
-    border: 3px solid #F53838 ;
+    border: 3px solid #F53838;
     border-radius: 30px;
     font-family: 'Rubik';
     font-style: normal;
@@ -380,20 +382,20 @@
     box-sizing: border-box;
 }
 
-.rectangle3{
+.rectangle3 {
     position: absolute;
     margin-left: 1200px;
     margin-top: -598px;
     width: 18%;
 }
 
-.premiumPlan{
+.premiumPlan {
     position: absolute;
     margin-left: 1280px;
     margin-top: -550px;
 }
 
-.plan3{
+.plan3 {
     position: absolute;
     margin-left: 1300px;
     margin-top: -362px;
@@ -405,9 +407,9 @@
     color: #0B132A;
 }
 
-.premiumPlans{
+.premiumPlans {
     position: absolute;
-    margin-left:1240px;
+    margin-left: 1240px;
     margin-top: -300px;
     list-style: none;
     font-family: 'Rubik';
@@ -418,36 +420,36 @@
     color: #4F5665;
 }
 
-.offer3{
+.offer3 {
     position: absolute;
     margin-left: 1310px;
     margin-top: -20px;
     font-family: 'Rubik';
-    font-style:bold;
+    font-style: bold;
     font-weight: 900;
     font-size: 25px;
     line-height: 30px;
-    color:#0B132A ;
+    color: #0B132A;
 }
 
-.btn4{
+.btn4 {
     position: absolute;
     margin-left: 1290px;
     margin-top: 30px;
     background: #F53838;
-    border: 3px solid #F53838 ;
+    border: 3px solid #F53838;
     border-radius: 30px;
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
     line-height: 19px;
-    color:white;
+    color: white;
     padding: 8px 40px;
     box-sizing: border-box;
 }
 
-.heading2{
+.heading2 {
     /* position: absolute; */
     margin-top: 300px;
     margin-left: 50px;
@@ -460,7 +462,7 @@
     color: #0B132A;
 }
 
-.subheading2{
+.subheading2 {
     text-align: center;
     margin-top: 30px;
     margin-left: 50px;
@@ -472,17 +474,17 @@
     color: #4F5665;
 }
 
-.worldMap{
+.worldMap {
     margin-left: 350px;
     margin-top: 140px;
     width: 60%;
 }
 
-.sponsors{
+.sponsors {
     margin-left: 300px;
 }
 
-.heading3{
+.heading3 {
     text-align: center;
     margin-left: 90px;
     margin-top: 50px;
@@ -494,7 +496,7 @@
     color: #0B132A;
 }
 
-.subheading3{
+.subheading3 {
     text-align: center;
     margin-left: 100px;
     margin-top: 30px;
@@ -506,19 +508,19 @@
     color: #4F5665;
 }
 
-.rectangle4{
+.rectangle4 {
     margin-left: 270px;
     margin-top: 80px;
 }
 
-.customer1{
+.customer1 {
     position: absolute;
     margin-left: -370px;
     margin-top: 120px;
     width: 3%;
 }
 
-.customerName1{
+.customerName1 {
     margin-left: 400px;
     margin-top: -198px;
     font-family: 'Rubik';
@@ -529,7 +531,7 @@
     color: #0B132A;
 }
 
-.customerLocation1{
+.customerLocation1 {
     margin-left: 400px;
     font-family: 'Rubik';
     font-style: normal;
@@ -539,21 +541,21 @@
     color: #4F5665;
 }
 
-.customerRating1{
-    margin-left:570px;
-    margin-top:-40px;
+.customerRating1 {
+    margin-left: 570px;
+    margin-top: -40px;
     font-weight: bold;
 }
 
-.star1{
+.star1 {
     position: absolute;
     margin-left: 600px;
-    width:1.7%;
+    width: 1.7%;
     margin-top: -27px;
 }
 
-.customerReview1{
-    margin-left: 300px;
+.customerReview1 {
+    margin-left: 301px;
     margin-top: 60px;
     font-family: 'Rubik';
     font-style: normal;
@@ -563,19 +565,19 @@
     color: #0B132A;
 }
 
-.rectangle5{
+.rectangle5 {
     position: absolute;
     margin-left: 780px;
     margin-top: -200px;
 }
 
-.customer2{
+.customer2 {
     position: absolute;
     margin-left: 820px;
     margin-top: -164px;
 }
 
-.customerName2{
+.customerName2 {
     margin-left: 930px;
     margin-top: -160px;
     font-family: 'Rubik';
@@ -586,7 +588,7 @@
     color: #0B132A;
 }
 
-.customerLocation2{
+.customerLocation2 {
     margin-left: 930px;
     font-family: 'Rubik';
     font-style: normal;
@@ -596,20 +598,20 @@
     color: #4F5665;
 }
 
-.customerRating2{
-    margin-left:1100px;
+.customerRating2 {
+    margin-left: 1100px;
     margin-top: -40px;
     font-weight: bold;
 }
 
-.star2{
+.star2 {
     position: absolute;
     margin-left: 1127px;
     margin-top: -28px;
     width: 1.7%;
 }
 
-.customerReview2{
+.customerReview2 {
     margin-left: 820px;
     margin-top: 50px;
     font-family: 'Rubik';
@@ -620,18 +622,18 @@
     color: #0B132A;
 }
 
-.rectangle6{
+.rectangle6 {
     margin-left: 1288px;
     margin-top: -152px;
 }
 
-.customer3{
+.customer3 {
     position: absolute;
     margin-left: 1335px;
     margin-top: -200px;
 }
 
-.customerName3{
+.customerName3 {
     margin-left: 1430px;
     margin-top: -200px;
     font-family: 'Rubik';
@@ -642,7 +644,7 @@
     color: #0B132A;
 }
 
-.customerLocation3{
+.customerLocation3 {
     margin-left: 1430px;
     font-family: 'Rubik';
     font-style: normal;
@@ -652,20 +654,20 @@
     color: #4F5665;
 }
 
-.customerRating3{
+.customerRating3 {
     margin-left: 1595px;
     margin-top: -50px;
     font-weight: 700;
 }
 
-.star3{
+.star3 {
     position: absolute;
     margin-left: 1625px;
     margin-top: -26px;
     width: 1.7%;
 }
-    
-.customerReview3{
+
+.customerReview3 {
     margin-left: 1337px;
     margin-top: 40px;
     font-family: 'Rubik';
@@ -676,29 +678,29 @@
     color: #0B132A;
 }
 
-.option{
+.option {
     margin-top: 140px;
     margin-left: 275px;
 }
 
-.leftArrow{
+.leftArrow {
     display: flex;
     margin-left: 1350px;
     margin-top: -45px;
 }
 
-.rightArrow{
+.rightArrow {
     display: flex;
-    margin-left:1390px;
-    margin-top:-92px ;
+    margin-left: 1390px;
+    margin-top: -92px;
 }
 
-.rectangle7{
+.rectangle7 {
     margin-left: 280px;
-    box-shadow:  0 3px 10px;
+    box-shadow: 0 3px 10px;
 }
 
-.heading4{
+.heading4 {
     margin-left: 350px;
     margin-top: -200px;
     font-family: 'Rubik';
@@ -709,17 +711,17 @@
     color: #0B132A;
 }
 
-.subheading4{
-    margin-left:350px;
+.subheading4 {
+    margin-left: 350px;
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 25px; 
+    line-height: 25px;
     color: #4F5665;
 }
 
-.btn5{
+.btn5 {
     position: absolute;
     margin-left: 1150px;
     margin-top: -80px;
@@ -735,17 +737,17 @@
     line-height: 25px;
 }
 
-.footer{
+.footer {
     background-color: #F8F8F8;
     width: 100%;
 }
 
-.logo2{
+.logo2 {
     margin-top: 240px;
     margin-left: 280px;
 }
 
-.subheading5{
+.subheading5 {
     margin-left: 280px;
     margin-top: 10px;
     font-family: 'Rubik';
@@ -756,27 +758,27 @@
     color: #4F5665;
 }
 
-.facebookIcon{
+.facebookIcon {
     margin-left: 250px;
     margin-top: 30px;
     width: 5%;
 }
 
-.twitterIcon{
-    display:flex;
+.twitterIcon {
+    display: flex;
     margin-left: 330px;
     margin-top: -87px;
     width: 5%;
 }
 
-.instagramIcon{
+.instagramIcon {
     display: flex;
     margin-left: 410px;
     margin-top: -87px;
     width: 5%;
 }
 
-.copyright{
+.copyright {
     margin-top: -10px;
     margin-left: 280px;
     font-family: 'Rubik';
@@ -787,15 +789,14 @@
     color: #AFB5C0;
 }
 
-.product{
+.product {
     margin-left: 950px;
     margin-top: -230px;
-    font-weight: bold;
     font-size: 17px;
 }
 
-.list1{
-    margin-left:910px;
+.list1 {
+    margin-left: 910px;
     list-style: none;
     font-family: 'Rubik';
     font-style: normal;
@@ -805,33 +806,33 @@
     color: #4F5665;
 }
 
-.engage{
+.engage {
     margin-left: 1180px;
-    margin-top:-230px;
-    font-weight: bold;
-    font-size: 17px;
-}
-
-.list2{
-    margin-left:1140px;
-    list-style: none;
-    font-family: 'Rubik';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 30px;
-    color: #4F5665;
-}
-
-.earnMoney{
-    margin-left:1400px;
     margin-top: -230px;
     font-weight: bold;
     font-size: 17px;
 }
 
-.list3{
-    margin-left:1370px;
+.list2 {
+    margin-left: 1140px;
+    list-style: none;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #4F5665;
+}
+
+.earnMoney {
+    margin-left: 1400px;
+    margin-top: -230px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.list3 {
+    margin-left: 1370px;
     list-style: none;
     font-family: 'Rubik';
     font-style: normal;
