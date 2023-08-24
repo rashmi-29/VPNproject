@@ -414,7 +414,7 @@
     margin-top: -300px;
     list-style: none;
     font-family: 'Rubik';
-    font-style: normal;
+    font-style:inherit;
     font-weight: 500;
     font-size: 16px;
     line-height: 45px;
