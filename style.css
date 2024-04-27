@@ -27,8 +27,8 @@
     color: #4F5665;
 }
 
+
 .navitem3 {
-    /* display: flex; */
     margin-left: 940px;
     margin-top: -20px;
     font-family: 'Rubik';
@@ -52,6 +52,7 @@
 }
 
 .navitem5 {
+
     display: flex;
     margin-left: 1300px;
     margin-top: -19px;
@@ -61,6 +62,7 @@
     font-size: 16px;
     line-height: 19px;
     color: #0B132A;
+
 }
 
 .content1 {
@@ -234,7 +236,7 @@
     font-weight: 500;
     font-size: 35px;
     line-height: 50px;
-    margin-top: 250px;
+    margin-top: 240px;
 }
 
 .subheading1 {
@@ -480,8 +482,7 @@
 .sponsors {
     margin-left: 300px;
 }
-
-
+  
 .heading3 {
     text-align: center;
     margin-left: 90px;
